@@ -1,5 +1,6 @@
+# ChatCEA: A Knowledge-Driven Intelligent Service Agent for Controlled Environment Agriculture
+![image](https://github.com/user-attachments/assets/d6d90469-de3a-45f5-b049-c3ed90b12ba9)
 
-# ChatCEA Notebook
 
 This notebook contains code for processing documents, performing retrieval tasks using LangChain, and interacting with external tools such as Nougat. The goal is to process and store documents, which can then be retrieved for analysis using various search strategies.
 

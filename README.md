@@ -1,5 +1,5 @@
-# ChatCEA: A Knowledge-Driven Intelligent Service Agent for Controlled Environment Agriculture
-![image](https://github.com/user-attachments/assets/d6d90469-de3a-45f5-b049-c3ed90b12ba9)
+# ChatCEA: a knowledge-driven intelligent service agent for Controlled Environment Agriculture
+![image](https://github.com/user-attachments/assets/92254759-a621-472f-be14-1da692a26b4e)
 ChatCEA, a novel knowledge-driven intelligent service agent framework for Controlled Environment Agriculture, leveraging LLM and RAG technologies. The framework integrates a specialized knowledge base, which includes management manuals and journal papers, providing domain expertise in CEA.
 
 This notebook contains code for processing documents, performing retrieval tasks using LangChain, and interacting with external tools such as Nougat. The goal is to process and store documents, which can then be retrieved for analysis using various search strategies.
